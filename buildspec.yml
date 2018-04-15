@@ -1,14 +1,13 @@
 version: 0.1
 
 phases:
-    build:
+  build:
     commands:
       - echo nothing to do stylesheet
 artifacts:
   files:
     - index.html
-    - favicon.icons
+    - favicon.ico
     - Karl_Andersson_Resume_2018.pdf
     - styles/main.css
     - images/*
-    
