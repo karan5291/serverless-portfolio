@@ -1,2 +1,3 @@
-# serverless-portfolio
-serverless-portfolio
+# Karl Andersson's Portfolio
+
+This is my Serverless portfolio
