@@ -13,4 +13,4 @@ artifacts:
     - Karl_Andersson_Resume_2018.pdf
     - styles/main.css
     - images/*
-    -dist/bundle.js
+    - dist/bundle.js
