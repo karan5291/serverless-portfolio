@@ -3,7 +3,9 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo nothing to do stylesheet
+      - npm install
+      - npn run Webpack
+
 artifacts:
   files:
     - index.html
@@ -11,3 +13,4 @@ artifacts:
     - Karl_Andersson_Resume_2018.pdf
     - styles/main.css
     - images/*
+    -dist/bundle.js
